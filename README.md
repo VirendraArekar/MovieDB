@@ -1,8 +1,8 @@
 # Movie Library w/ ReactJS
 
-## [Check it live here](https://movies.fidalgo.dev/)
+## [Check it live here](https://virendra-moviesdb.herokuapp.com/)
 
-![Thumbnail](thumbnail.png)
+
 
 A Movie Library made with ReactJS using The Movie Database API
 
