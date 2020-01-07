@@ -1,6 +1,7 @@
 {
   "name": "04_movie_react",
-  "version": "0.1.0",
+  "version": "0.1.0.0",
+  "desciption" : "create the search movies with info using react js and use api as moviesdb.",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.15",

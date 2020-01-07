@@ -1,0 +1,7 @@
+{
+    "name":"Node.js getting started",
+    "desciption" : "create the search movies with info using react js and use api as moviesdb.",
+    "repository" : "https://github.com/VirendraArekar/MovieDB",
+    "logo" : "https://www.themoviedb.org/assets/2/v4/logos/312x276-primary-green-74212f6247252a023be0f02a5a45794925c3689117da9d20ffe47742a665c518.png",
+    "keywords" : ["node","react","moviesdb"]
+}
