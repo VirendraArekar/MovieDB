@@ -48,6 +48,8 @@ npm run build
 
 Please feel free to send pull request if you want to contribute!
 
-## Authors
+## Developer
 
-- **Fidalgo** - _Development_ - [Fidalgo](https://github.com/fidalgodev)
+- **Virendra Arekar** - 
+
+##original guideline from https://github.com/fidalgodev/movie-library-react to make and learn this buitiful  site thanks to you.
