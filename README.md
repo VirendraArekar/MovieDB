@@ -52,4 +52,4 @@ Please feel free to send pull request if you want to contribute!
 
 - **Virendra Arekar** - 
 
-##original guideline from https://github.com/fidalgodev/movie-library-react to make and learn this buitiful  site thanks to you.
+##original guideline from https://github.com/fidalgodev/movie-library-react to make and learn this beautiful site thanks to you.
